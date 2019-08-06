@@ -1,0 +1,56 @@
+img{
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.ralts{
+    width: 250px;
+    float: left;
+}
+.charizard{
+    width: 250px;
+    margin-left: 150px;
+}
+.actualizacion{
+    width: 250px;
+    float: right;
+}
+li{
+    float: left;
+    list-style: none;
+    padding: 0px;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+nav{
+    float: right;
+}
+a{
+    text-decoration: none;
+    font-family: monospace;
+    color: darkblue;
+    font-size: 20px;
+}
+li:hover a{
+    color: black;
+}
+header{
+    background-color: goldenrod;
+}
+body{
+    background-color: coral;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+h2{
+    text-align: left;
+    margin-left: 40px;
+}
+footer{
+    text-align: center;
+    color: crimson;
+    font-family: sans-serif;
+    font-style: oblique;
+}
